@@ -1,0 +1,13 @@
+SQLHost: 127.0.0.1
+SQLPort: 3306
+SQLDatabase: mcserver
+SQLUsername: mcserver
+SQLPassword: your-secure-password
+JoinLeaveRelationHours: 24
+AccountIPRelationHours: 24
+SkipDirtyData: true
+LiveMode: false
+IPDisplayMode: raw
+ServerIdentifier: undefined
+MultiServer: false
+MultiServerRole: none

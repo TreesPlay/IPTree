@@ -1,0 +1,16 @@
+# Compiled class files and build output
+bin/
+testdata/
+versionhistory/
+*.jar
+*.class
+
+# Internal notes / drafts
+docs/
+
+# IDE and OS files
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
