@@ -1,0 +1,15 @@
+name: IPTree
+main: ac.tree.testserver.iptree.IPTree
+version: b38
+author: TreesWorld_LP
+website: https://tree.ac
+description: Advanced sockpuppet & ban evasion detection plugin
+commands:
+  iptree:
+    description: Main command for IPTree plugin
+    usage: /iptree <subcommand>
+    permission: iptree.admin
+permissions:
+  iptree.admin:
+    description: Allows full access to IPTree commands
+    default: op
